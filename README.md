@@ -16,8 +16,9 @@ Estou fazendo transição de carreira para Data Analist.
 - Fast API
 
 ### Contato
-Email: prilauchi@hotmail.com
-
+Email:prilauchiinfinity@gmail.com 
+      prilauchi@hotmail.com
+       
 
 
 
