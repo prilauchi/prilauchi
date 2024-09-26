@@ -3,24 +3,20 @@
 ## Meu nome é Priscila!
 
 
-Sou graduada em Análise e desenvolvimento de sistemas, tecnólogo. Posso me comunicar em dois idiomas: Inglês e Espanhol. 
+🎓Sou graduada em Análise e desenvolvimento de sistemas, tecnólogo. Posso me comunicar em três idiomas: Inglês, Espanhol e Português(nativo).
 Tenho experiência administrativa com sólida experiência em departamento financeiro. 
-Estou fazendo transição de carreira para Data Analist. Atualmente estou aprendendo Linguagem de programação Python, curso profissionalizante,
-na Infinity School, dentre outras ferramentas necessárias para a função, como:
+Estou fazendo transição de carreira para Data Analist. 
+🌱Atualmente estou me especializando em linguagem de programação Python, curso profissionalizante, na escola Infinity School, dentre outras ferramentas necessárias para a função, como:
 
 - SQL
-- Power Bi
+- Power BI
 - Pandas
 - Git/GitHub
-- Low Code
 - Excel
 - Fast API
 
 ### Contato
 Email: prilauchi@hotmail.com
-
-Telefone
-(81) 99403-7851
 
 
 
