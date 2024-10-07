@@ -7,7 +7,7 @@
 Tenho experiência administrativa com sólida experiência em departamento financeiro e consultoria bilingue.
 Estou fazendo transição de carreira para Data Analist. 
 🌱Atualmente estou me especializando em Data Science, na escola Infinity School (curso profissionalizante).
-As ferramentas de análise de dados que possuo conhecimento são:
+As ferramentas de análise de dados que eu estou aprendendo são:
 
 - Python
 - SQL
